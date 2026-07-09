@@ -677,6 +677,10 @@ footer p{
         text-align:center;
     }
 
+    .hero{
+    padding-top: 140px;
+}
+
     .hero-image img{
         width:100%;
         max-width:350px;
